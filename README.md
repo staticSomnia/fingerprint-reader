@@ -1,1 +1,1 @@
-https://iitzfrlx.github.io/fingerprint-reader/
+https://staticSomnia.github.io/fingerprint-reader/
